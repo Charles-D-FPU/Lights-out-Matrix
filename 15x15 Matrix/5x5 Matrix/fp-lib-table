@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "FOOTPERSON") (type "KiCad") (uri "${KIPRJMOD}/FOOTPERSON.pretty") (options "") (descr ""))
+	(lib (name "libs") (type "KiCad") (uri "${KIPRJMOD}/libs") (options "") (descr "") (disabled))
+	(lib (name "footprints") (type "KiCad") (uri "${KIPRJMOD}/libs/lcsc/footprints.pretty") (options "") (descr ""))
+)

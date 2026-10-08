@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "PERSONALFOOT") (type "KiCad") (uri "${KIPRJMOD}/PERSONALFOOT.pretty") (options "") (descr ""))
+)
