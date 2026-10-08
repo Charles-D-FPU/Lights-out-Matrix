@@ -648,7 +648,7 @@
         "uuid": "792e2b81-7af6-41a7-bbf1-162143ad8406"
       }
     ],
-    "used_designators": "D1-51,D226-228,SW1-30,U1-2,A1,CPI1-2,J1,#FLG1,R1-3,C1-30,SK6812MINI\\-E1,SK6812MINI\\-E_C5149202-5149220",
+    "used_designators": "D1-51,D226-228,SW1-30,U1-2,A1,#FLG1,R1-3,CPI1-2,J1,C1-30,SK6812MINI\\-E1,SK6812MINI\\-E_C5149202-5149220",
     "variants": []
   },
   "sheets": [
