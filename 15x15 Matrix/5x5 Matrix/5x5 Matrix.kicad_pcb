@@ -18605,7 +18605,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "09a55ccb-d55a-4bde-807a-a7c93b6edaab")
-		(at 33 167.475 180)
+		(at 27.46 116.28 180)
 		(property "Reference" "D46"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -19185,7 +19185,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "1517e6f2-a88d-4b02-b2dd-b3815f9c6f07")
-		(at 41.1 149.275 180)
+		(at 27.46 59.13 180)
 		(property "Reference" "D35"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -19491,7 +19491,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "1a90da7a-8690-4f89-ac1e-aee14ac4bdb2")
-		(at 24.9 153.825 180)
+		(at 103.66 116.28 180)
 		(property "Reference" "D50"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -20925,7 +20925,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "4730639a-ba63-4c27-9e94-347ea4130281")
-		(at 33 153.825 180)
+		(at 65.56 97.23 180)
 		(property "Reference" "D43"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -21231,7 +21231,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "49da7a4a-6cae-40f8-a196-363fb23627b0")
-		(at 33 158.375 180)
+		(at 46.51 97.23 180)
 		(property "Reference" "D44"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -21537,7 +21537,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "4e4178cb-fb64-47a5-8c7e-37a432f01026")
-		(at 49.2 167.475 180)
+		(at 84.61 59.13 180)
 		(property "Reference" "D32"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -23487,7 +23487,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "6f9df6f9-dd5d-49ca-b80b-0e5faeb8ae28")
-		(at 39.8 132.48 180)
+		(at 65.56 59.13 180)
 		(property "Reference" "D33"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -23793,7 +23793,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "72fdc2db-10d2-4a05-a828-3a52f01f259e")
-		(at 41.1 153.825 180)
+		(at 27.46 78.18 180)
 		(property "Reference" "D36"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -24921,7 +24921,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "87b44309-36fa-495a-857b-34b88594bdd9")
-		(at 33 149.275 180)
+		(at 84.61 97.23 180)
 		(property "Reference" "D42"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -25227,7 +25227,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "94f9329f-492d-4aca-9275-67bbf6290a59")
-		(at 49 135.25 180)
+		(at 103.66 78.18 180)
 		(property "Reference" "D40"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -25533,7 +25533,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "98acc77a-436b-452f-b932-ada12b1fd89e")
-		(at 41.1 144.725 180)
+		(at 46.51 59.13 180)
 		(property "Reference" "D34"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -27241,7 +27241,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "b50ffd6c-b296-475a-8651-4a0d3e47aaa6")
-		(at 24.9 149.275 180)
+		(at 84.61 116.28 180)
 		(property "Reference" "D49"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -28981,7 +28981,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "d1d1f1ac-548d-4171-a893-bd9df24c8ae1")
-		(at 41.1 158.375 180)
+		(at 46.51 78.18 180)
 		(property "Reference" "D37"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -30109,7 +30109,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "e0a9b452-ccb9-4a3f-85fe-80be25620496")
-		(at 41.1 162.925 180)
+		(at 65.56 78.18 180)
 		(property "Reference" "D38"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -30415,7 +30415,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "e22497bd-6e93-43e7-aa42-66d82ccc7b42")
-		(at 33 162.925 180)
+		(at 27.46 97.23 180)
 		(property "Reference" "D45"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -30721,7 +30721,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "e27415b5-d696-4ea3-944f-1830e7275f1f")
-		(at 41.1 167.475 180)
+		(at 84.61 78.18 180)
 		(property "Reference" "D39"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -31301,7 +31301,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "e5cb2b4b-84f5-4035-8d8d-140d894a19b1")
-		(at 33 144.725 180)
+		(at 103.66 97.23 180)
 		(property "Reference" "D41"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -31607,7 +31607,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "e759e1ce-b427-4a06-bd48-1eaba56ff961")
-		(at 55.85 140.175 180)
+		(at 46.51 116.28 180)
 		(property "Reference" "D47"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -32461,7 +32461,7 @@
 	(footprint "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
 		(layer "B.Cu")
 		(uuid "ef6833d5-ce0b-446e-8db0-2f2b65d99f4d")
-		(at 24.9 144.725 180)
+		(at 65.56 116.28 180)
 		(property "Reference" "D48"
 			(at 0 4.725 0)
 			(layer "B.SilkS")
@@ -33037,6 +33037,17 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_rect
+		(start 14.25 23)
+		(end 142 175.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "f1f01e60-746b-454c-921a-3a8a545b2161")
 	)
 	(embedded_fonts no)
 )
