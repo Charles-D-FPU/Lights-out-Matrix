@@ -3512,16 +3512,6 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 123.19) (xy 237.49 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2bd0ecce-1cfb-47df-9590-eff30069945e")
-	)
-	(wire
-		(pts
 			(xy 121.92 44.45) (xy 125.73 44.45)
 		)
 		(stroke
@@ -4662,16 +4652,6 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 109.22) (xy 237.49 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c68336da-1eec-4b5f-98e2-7f78db729352")
-	)
-	(wire
-		(pts
 			(xy 218.44 187.96) (xy 218.44 191.77)
 		)
 		(stroke
@@ -5140,16 +5120,6 @@
 		)
 		(uuid "0857b00b-ff2e-4984-9545-6fcee8551b96")
 	)
-	(label "GND"
-		(at 237.49 129.54 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "08c6bfdb-16d8-4b89-bbff-35a20e8bcd49")
-	)
 	(label "5V"
 		(at 193.04 176.53 0)
 		(effects
@@ -5210,6 +5180,16 @@
 		)
 		(uuid "12fb7008-95ab-4bf9-accf-845f0420761d")
 	)
+	(label "ROW1"
+		(at 121.92 49.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1370ea56-2d43-4767-8460-21bb50c4b8d4")
+	)
 	(label "5V"
 		(at 135.89 246.38 180)
 		(effects
@@ -5220,6 +5200,16 @@
 		)
 		(uuid "15e026cf-5636-4dd3-8009-e10c4cf6a96f")
 	)
+	(label "COL2"
+		(at 121.92 67.31 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "178c0c37-0d45-44b9-b944-de7c86a5293e")
+	)
 	(label "5V"
 		(at 193.04 214.63 0)
 		(effects
@@ -5229,16 +5219,6 @@
 			(justify left bottom)
 		)
 		(uuid "1a3a661a-ed65-4ddb-905e-a778ebbe036c")
-	)
-	(label "3V3"
-		(at 237.49 109.22 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1a89527c-1079-4cbc-95e5-09300762ceaf")
 	)
 	(label "COL2"
 		(at 52.07 48.26 0)
@@ -5310,6 +5290,16 @@
 		)
 		(uuid "1f8af070-2b7c-4861-b2ba-fcf52c1a91f4")
 	)
+	(label "COL3"
+		(at 121.92 64.77 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "21606172-27b0-4b95-981d-06ff81de0e01")
+	)
 	(label "ROW1"
 		(at 66.04 52.07 0)
 		(effects
@@ -5339,6 +5329,16 @@
 			(justify left bottom)
 		)
 		(uuid "22c2e574-05bd-4aa0-a0ec-84730ce6736d")
+	)
+	(label "ROW3"
+		(at 121.92 44.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "232324e4-7a04-4f37-8425-d4a1f6d5dd23")
 	)
 	(label "5V"
 		(at 218.44 214.63 0)
@@ -5399,6 +5399,16 @@
 			(justify left bottom)
 		)
 		(uuid "285455ef-1758-4928-afe1-18860b8b1da5")
+	)
+	(label "COL4"
+		(at 121.92 62.23 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "28f2aad3-df51-4f65-ab6b-d32293f2ea44")
 	)
 	(label "GND"
 		(at 231.14 172.72 0)
@@ -5490,16 +5500,6 @@
 		)
 		(uuid "34fb9393-a191-46eb-a556-87e08a98f32b")
 	)
-	(label "ROW0"
-		(at 121.92 52.07 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "370e2db0-0883-4614-b4d1-a9b9ad5bdfc8")
-	)
 	(label "GND"
 		(at 218.44 229.87 0)
 		(effects
@@ -5569,16 +5569,6 @@
 			(justify left bottom)
 		)
 		(uuid "3d839689-4750-4622-aa5b-59ea96a831b4")
-	)
-	(label "COL3"
-		(at 121.92 64.77 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3f092386-847c-46b8-808b-7f884cd030ff")
 	)
 	(label "GND"
 		(at 120.65 167.64 0)
@@ -5790,6 +5780,16 @@
 		)
 		(uuid "54f02c35-03d6-47eb-88f4-547b925b05f7")
 	)
+	(label "ROW0"
+		(at 121.92 52.07 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5505b9c3-c135-41c8-b367-dfe72ef915c3")
+	)
 	(label "GND"
 		(at 231.14 250.19 0)
 		(effects
@@ -5849,6 +5849,16 @@
 			(justify right bottom)
 		)
 		(uuid "5a0aa45a-d421-4ab8-bf14-3e60a9d94373")
+	)
+	(label "ROW2"
+		(at 121.92 46.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5c38ae1c-bc11-4215-88ec-c62b60770e31")
 	)
 	(label "GND"
 		(at 59.69 207.01 0)
@@ -5930,16 +5940,6 @@
 		)
 		(uuid "6a8e4a2c-9d9d-4d78-a8d3-dcf6abe2d799")
 	)
-	(label "COL4"
-		(at 121.92 62.23 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "6a9f6cab-0b83-48b1-99fe-3960eaf998bf")
-	)
 	(label "ROW3"
 		(at 66.04 100.33 0)
 		(effects
@@ -5950,16 +5950,6 @@
 		)
 		(uuid "6b7d01ce-dc0b-4ebb-ba5a-26aa9f7c0a37")
 	)
-	(label "ROW3"
-		(at 121.92 44.45 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "6c630a4d-212b-477d-a4e5-dc565207d467")
-	)
 	(label "GND"
 		(at 228.6 104.14 180)
 		(effects
@@ -5969,6 +5959,16 @@
 			(justify right bottom)
 		)
 		(uuid "6d027f82-f0c0-4549-bb90-6ef832c06b00")
+	)
+	(label "COL0"
+		(at 121.92 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "724503d2-5df0-4461-948f-ed02e202679f")
 	)
 	(label "GND"
 		(at 44.45 191.77 180)
@@ -6000,16 +6000,6 @@
 		)
 		(uuid "781d531c-a11c-4c73-ac02-53df697ada9d")
 	)
-	(label "COL2"
-		(at 121.92 67.31 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7a2c91aa-1b01-4f8f-8755-a764cc6cb782")
-	)
 	(label "5V"
 		(at 90.17 231.14 0)
 		(effects
@@ -6019,26 +6009,6 @@
 			(justify left bottom)
 		)
 		(uuid "7b7e2b24-0748-44e9-a02b-a28b635b3e31")
-	)
-	(label "COL0"
-		(at 121.92 72.39 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7c6278bd-06f1-4b44-99cb-552e30fa6ba2")
-	)
-	(label "ROW2"
-		(at 121.92 46.99 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7c809a2d-b538-4b76-8f72-59fec07a944c")
 	)
 	(label "GND"
 		(at 105.41 231.14 180)
@@ -6139,6 +6109,16 @@
 			(justify right bottom)
 		)
 		(uuid "86eccd8f-8262-4833-9b6c-b5f53598b368")
+	)
+	(label "ROW4"
+		(at 121.92 41.91 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "88cd2fb9-392a-49b2-a53d-6b7af8bd4e07")
 	)
 	(label "3V3"
 		(at 209.55 109.22 0)
@@ -6390,16 +6370,6 @@
 		)
 		(uuid "a7131f64-74d4-433b-96ee-12d63335f44b")
 	)
-	(label "COL1"
-		(at 121.92 69.85 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a71db2c4-e641-4192-80b2-75aac02b2caa")
-	)
 	(label "ROW3"
 		(at 38.1 100.33 0)
 		(effects
@@ -6479,6 +6449,16 @@
 			(justify left bottom)
 		)
 		(uuid "afb3e8cc-4724-415b-ae27-454c50e75959")
+	)
+	(label "COL1"
+		(at 121.92 69.85 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b16bdd01-0ceb-473f-a767-a7e29dbccb88")
 	)
 	(label "5V"
 		(at 44.45 246.38 180)
@@ -6599,16 +6579,6 @@
 			(justify left bottom)
 		)
 		(uuid "c370c8f7-5725-4f06-9984-673ddcf8f749")
-	)
-	(label "ROW1"
-		(at 121.92 49.53 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c41b0084-d136-4439-9dcb-241b0ad341ca")
 	)
 	(label "GND"
 		(at 29.21 246.38 0)
@@ -6789,16 +6759,6 @@
 			(justify left bottom)
 		)
 		(uuid "e4ba6fbc-993a-4bb1-b25e-d3a4bc8270f4")
-	)
-	(label "ROW4"
-		(at 121.92 41.91 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e6bff841-1db5-4b22-b094-3367514df3eb")
 	)
 	(label "GND"
 		(at 184.15 191.77 0)
@@ -7012,7 +6972,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 67.31 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -7035,6 +6995,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 67.31 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 67.31 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -7133,6 +7104,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 205.74 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5c94fa2d-3e10-4d26-992a-e630ac9c162d")
 		)
@@ -7215,6 +7197,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 231.14 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8650f008-3363-4ab6-8c92-e1c0cf521119")
 		)
@@ -7262,7 +7255,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 36.83 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -7285,6 +7278,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 36.83 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 36.83 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -7372,6 +7376,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 184.15 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C14663"
 			(at 184.15 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -7486,6 +7501,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 24.13 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6897b1a4-61b0-4a5b-8f3d-a9bedf2d975d")
 		)
@@ -7568,6 +7594,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 205.74 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3ea6aa36-2c25-49da-90ed-561b61b95ec0")
 		)
@@ -7640,6 +7677,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 218.44 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C14663"
 			(at 218.44 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -7754,6 +7802,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 38.1 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "09858bee-d22e-452d-80f6-a6409dc4e9ff")
 		)
@@ -7775,7 +7834,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7836,6 +7895,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 38.1 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b16d4d80-2ba6-49fd-8dcc-8360d96d39aa")
 		)
@@ -7883,7 +7953,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 36.83 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -7906,6 +7976,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 36.83 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 36.83 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -7969,7 +8050,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 158.75 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -7992,6 +8073,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 158.75 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 158.75 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -8080,6 +8172,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 193.04 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C14663"
 			(at 193.04 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -8190,7 +8293,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -8242,6 +8345,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 38.1 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 38.1 34.29 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8355,6 +8469,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 80.01 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9293e9bd-2ea5-4c81-8473-d1b52e768cc6")
 		)
@@ -8459,6 +8584,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 52.07 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1ffa2772-f337-4276-a824-16287f8b2437")
 		)
@@ -8541,6 +8677,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 218.44 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1b2109b6-a40b-4973-9149-49182eb449e3")
 		)
@@ -8562,7 +8709,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -8614,6 +8761,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 80.01 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 80.01 82.55 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8704,6 +8862,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 184.15 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "206f5f28-4c6e-425b-8115-dbd1ae46939c")
 		)
@@ -8751,7 +8920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 128.27 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -8774,6 +8943,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 128.27 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 128.27 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -8837,7 +9017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 158.75 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -8860,6 +9040,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 158.75 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 158.75 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -8958,6 +9149,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 193.04 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e5986ba1-6a0b-424a-b4fc-e3914482ebff")
 		)
@@ -9040,6 +9242,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 193.04 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b299a794-bbbe-4081-a158-4247cbb2102a")
 		)
@@ -9061,7 +9274,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9122,6 +9335,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 38.1 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cd29f76e-646f-41e4-9117-b3a653b5c132")
 		)
@@ -9143,7 +9367,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9204,6 +9428,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 66.04 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ecb3da57-7b58-4c20-91ea-c60497f74f4f")
 		)
@@ -9225,7 +9460,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9277,6 +9512,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 24.13 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 24.13 106.68 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9368,6 +9614,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 193.04 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "480a116b-579a-42ee-abc7-523a116bf544")
 		)
@@ -9389,7 +9646,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9441,6 +9698,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 24.13 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 24.13 132.08 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9522,6 +9790,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 218.44 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C14663"
 			(at 218.44 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -9636,6 +9915,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 80.01 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0eed1b19-03ce-45c1-955f-386de253d826")
 		)
@@ -9683,7 +9973,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 128.27 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -9706,6 +9996,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 128.27 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 128.27 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -9769,7 +10070,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 97.79 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -9792,6 +10093,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 97.79 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 97.79 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -9829,7 +10141,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9890,6 +10202,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 66.04 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "df98e851-a971-4e28-a259-1eb2ea867fb6")
 		)
@@ -9911,7 +10234,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9963,6 +10286,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 52.07 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 52.07 132.08 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10054,6 +10388,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 205.74 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "52e53f0e-bcda-42fd-86ac-46a3b08a1800")
 		)
@@ -10101,7 +10446,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 67.31 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -10124,6 +10469,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 67.31 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 67.31 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -10161,7 +10517,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -10213,6 +10569,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 24.13 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 24.13 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10326,6 +10693,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 38.1 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2c73aec7-1daa-450a-8f80-a27b77308187")
 		)
@@ -10372,7 +10750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 158.75 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -10395,6 +10773,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 158.75 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 158.75 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -10458,7 +10847,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C49304896_CAP-TH_BD6_3-P2_50-D0_5-FD"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 133.35 111.4552 0)
 			(hide yes)
 			(show_name no)
@@ -10482,6 +10871,17 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 137.16 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C49304896"
+			(at 137.16 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10538,7 +10938,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 158.75 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -10561,6 +10961,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 158.75 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 158.75 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -10659,6 +11070,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C474906"
+			(at 138.43 121.92 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7a0e0f27-925c-4e2f-a6d3-6c7e94e75caa")
 		)
@@ -10669,87 +11091,6 @@
 			(project "5x5 Matrix"
 				(path "/792e2b81-7af6-41a7-bbf1-162143ad8406"
 					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 237.49 119.38 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "5ee2845b-fd3b-49ba-8747-eaa865d7aa6d")
-		(property "Reference" "CPI1"
-			(at 233.68 120.6501 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 233.68 118.1101 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "footprints:C14663_C0603"
-			(at 236.5248 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 237.49 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 237.49 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d8b4d3a1-4a08-4c84-be1b-e15bf7c5beba")
-		)
-		(pin "2"
-			(uuid "525cc723-93b6-49b1-b22e-ea31d1fb901e")
-		)
-		(instances
-			(project "5x5 Matrix"
-				(path "/792e2b81-7af6-41a7-bbf1-162143ad8406"
-					(reference "CPI1")
 					(unit 1)
 				)
 			)
@@ -10822,6 +11163,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 231.14 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2ae20767-17d5-4ab4-89bb-21e98eee6981")
 		)
@@ -10869,7 +11221,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 158.75 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -10892,6 +11244,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 158.75 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 158.75 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -10929,7 +11292,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -10981,6 +11344,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 38.1 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 38.1 132.08 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11072,6 +11446,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 231.14 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "17d668a3-36e5-4ceb-982a-557f0c0a1a93")
 		)
@@ -11093,7 +11478,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -11154,6 +11539,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 66.04 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3dabff77-b52d-48e0-b234-a998d4f0d24a")
 		)
@@ -11175,7 +11571,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -11227,6 +11623,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 66.04 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 66.04 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11340,6 +11747,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 24.13 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f235c9bf-6751-4043-be47-9b10ad83811d")
 		)
@@ -11387,7 +11805,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 97.79 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -11410,6 +11828,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 97.79 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 97.79 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -11473,7 +11902,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 36.83 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -11496,6 +11925,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 36.83 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 36.83 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -11592,6 +12032,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7484"
+			(at 275.59 173.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8eb42bd7-549e-4dda-bab4-9078c5b2eca9")
 		)
@@ -11673,6 +12124,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 231.14 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C14663"
 			(at 231.14 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -11787,6 +12249,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 38.1 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "219080ca-b204-4302-b1e2-c982cc44a3f7")
 		)
@@ -11882,6 +12355,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 52.07 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2828417"
+			(at 52.07 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11995,6 +12479,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 66.04 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6cd5085e-8c59-46ca-8d80-3b20a1e1a227")
 		)
@@ -12076,6 +12571,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 184.15 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f001277b-8c80-4b9c-8215-b3a43622d0d9")
 		)
@@ -12097,7 +12603,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -12149,6 +12655,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 66.04 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 66.04 106.68 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12230,6 +12747,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 205.74 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C14663"
 			(at 205.74 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -12344,6 +12872,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 80.01 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5cd7a42a-fcdd-45e8-ab6a-83b467305653")
 		)
@@ -12391,7 +12930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 67.31 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -12414,6 +12953,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 67.31 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 67.31 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -12511,6 +13061,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 184.15 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "449c5512-2eb0-4f72-b867-77ab9a2a4068")
 		)
@@ -12532,7 +13093,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -12584,6 +13145,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 52.07 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 52.07 106.68 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12697,6 +13269,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 80.01 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "020a00a9-2580-4af0-b2d4-66391e7adb59")
 		)
@@ -12718,7 +13301,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -12770,6 +13353,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 38.1 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 38.1 82.55 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12883,6 +13477,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 66.04 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0bde9ef3-7ac2-464e-aa8f-a9095b48cc01")
 		)
@@ -12904,7 +13509,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -12956,6 +13561,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 80.01 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 80.01 132.08 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13037,6 +13653,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 250.19 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C14663"
 			(at 250.19 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -13129,6 +13756,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 218.44 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e7dc38d5-4f49-4f24-b3e6-2fa6089f5818")
 		)
@@ -13176,7 +13814,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 128.27 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -13199,6 +13837,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 128.27 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 128.27 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -13236,7 +13885,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -13297,6 +13946,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 52.07 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3bddb295-812c-4363-9917-734a058eb2cf")
 		)
@@ -13323,7 +13983,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a38ca421-3952-403e-9757-46892560b532")
-		(property "Reference" "CPI2"
+		(property "Reference" "C28"
 			(at 247.65 120.6501 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13378,6 +14038,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 251.46 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "92cd78ba-13a7-4aaf-8b7e-2a8ea634a609")
 		)
@@ -13387,7 +14058,7 @@
 		(instances
 			(project "5x5 Matrix"
 				(path "/792e2b81-7af6-41a7-bbf1-162143ad8406"
-					(reference "CPI2")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -13450,6 +14121,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 218.44 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23162"
 			(at 218.44 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -13542,6 +14224,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23162"
+			(at 209.55 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9750217b-305c-449f-af21-7bb89ef1d854")
 		)
@@ -13614,6 +14307,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 275.59 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C105881"
 			(at 275.59 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -13728,6 +14432,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 38.1 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ebdccca1-57d0-41aa-a331-3337418bf483")
 		)
@@ -13832,6 +14547,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 38.1 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c1bc68b7-fafa-41e3-99a4-4b19210e6b09")
 		)
@@ -13853,7 +14579,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -13905,6 +14631,17 @@
 		)
 		(property "Description" "Versatile and inexpensive microcontroller module powered by RP2040 dual-core Arm Cortex-M0+ processor up to 133 MHz, 264kB SRAM, 2MB QSPI flash; also supports Raspberry Pi Pico 2"
 			(at 228.6 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 228.6 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14110,6 +14847,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 231.14 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2dde1953-83b7-40f2-8c20-a9a314f7d476")
 		)
@@ -14192,6 +14940,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 205.74 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2db7e66a-3832-4b50-984c-386dfc2cef03")
 		)
@@ -14213,7 +14972,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -14274,6 +15033,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 80.01 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7e3d188c-55bc-4e6f-a893-4ed346b93766")
 		)
@@ -14321,7 +15091,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 128.27 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -14344,6 +15114,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 128.27 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 128.27 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -14434,6 +15215,17 @@
 			)
 		)
 		(property "Description" "16-bit I/O expander, I2C, interrupts, w pull-ups, GPA7/GPB7 output only (https://microchip.my.site.com/s/article/GPA7---GPB7-Cannot-Be-Used-as-Inputs-In-MCP23017),  SOIC-28"
+			(at 138.43 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C47023"
 			(at 138.43 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -14569,7 +15361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 36.83 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -14592,6 +15384,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 36.83 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 36.83 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -14712,6 +15515,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 66.04 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5bd34e27-0367-458b-954a-571e4aae4389")
 		)
@@ -14794,6 +15608,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 218.44 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ac500bb4-615c-49c3-90b9-f6ae09f581e5")
 		)
@@ -14841,7 +15666,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 67.31 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -14864,6 +15689,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 67.31 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 67.31 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -14927,7 +15763,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 67.31 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -14950,6 +15786,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 67.31 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 67.31 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -15038,6 +15885,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 193.04 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C14663"
 			(at 193.04 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -15152,6 +16010,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 24.13 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9f067f78-4b0a-41e0-a679-8897d32ee4cf")
 		)
@@ -15256,6 +16125,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 52.07 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7359d6bf-a2db-489e-ade6-6f52b8fb9680")
 		)
@@ -15277,7 +16157,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -15338,6 +16218,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 80.01 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b33b20d7-a7e8-42b8-b2cb-feb876f3fde1")
 		)
@@ -15359,7 +16250,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -15411,6 +16302,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 52.07 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 52.07 34.29 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15524,6 +16426,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 66.04 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9aebdfdc-3568-4c0e-b7f7-074e905b951d")
 		)
@@ -15628,6 +16541,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 52.07 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e813956f-cbd7-4a24-843e-540dcd380e3f")
 		)
@@ -15649,7 +16573,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -15701,6 +16625,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 52.07 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 52.07 82.55 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15814,6 +16749,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 24.13 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3018938b-e0bb-453c-b5ca-238d50aab88c")
 		)
@@ -15909,6 +16855,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 24.13 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2828417"
+			(at 24.13 67.31 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16022,6 +16979,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 52.07 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "40ae7207-b579-42cc-be93-2ff071246d70")
 		)
@@ -16069,7 +17037,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 128.27 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -16092,6 +17060,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 128.27 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 128.27 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -16212,6 +17191,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 80.01 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bd92164c-855d-41f0-9e34-851cd97ae528")
 		)
@@ -16233,7 +17223,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -16285,6 +17275,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 24.13 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 24.13 34.29 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16398,6 +17399,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2828417"
+			(at 66.04 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "17824b1b-9ef9-437e-9a26-aa52dba2cdb0")
 		)
@@ -16445,7 +17457,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 97.79 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -16468,6 +17480,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 97.79 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 97.79 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -16531,7 +17554,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 97.79 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -16554,6 +17577,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 97.79 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 97.79 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -16651,6 +17685,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 184.15 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e2be9ecd-3c96-43f5-bef4-5b483407471c")
 		)
@@ -16698,7 +17743,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 97.79 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -16721,6 +17766,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 97.79 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 97.79 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -16758,7 +17814,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -16819,6 +17875,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 24.13 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "053d2daf-1fdd-4788-9fde-f66edd9e9cba")
 		)
@@ -16866,7 +17933,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:C5149201_LED-SMD_4P-L3_2-W2_8-LS5_9_SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 36.83 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -16889,6 +17956,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 36.83 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 36.83 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -16926,7 +18004,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -16978,6 +18056,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 80.01 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 80.01 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
